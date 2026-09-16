@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primary-500: #14b8a6; /* Teal */
+    --color-secondary-500: #6366f1; /* Indigo */
+}
+
+body {
+    font-family: 'Inter', system-ui, sans-serif;
+}
