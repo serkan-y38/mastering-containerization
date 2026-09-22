@@ -1,0 +1,22 @@
+# Git & Environment variables
+.git
+.gitignore
+.env
+
+# Docker configuration files
+Dockerfile
+.dockerignore
+
+# Dependencies and Local Build Outputs
+node_modules
+dist
+dist-ssr
+
+# Logs
+logs
+*.log
+
+# IDE & System Files
+.vscode
+.idea
+.DS_Store
