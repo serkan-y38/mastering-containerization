@@ -148,5 +148,3 @@ To push an image to a remote repository (like Docker Hub or a private corporate 
   `docker tag image1 myusername/myapp:latest`
 * **Pushing to Docker Hub:**
   `docker push myusername/myapp:latest`
-
-![img.png](img/diagram5.png)
